@@ -8,5 +8,5 @@ Computer programming is virtually indispensable in modern geoscience. This cours
 •	Understand and modify scientific Python scripts written by others.
 •	Draw on a portfolio of well-documented programming examples created during the semester for examples and reminders of how to write Python code for various types of application.
 The material will be motivated using various geoscientific problems that involve programming.
-![image](https://github.com/user-attachments/assets/c750a1cb-a9b4-4ea7-9859-59a94987eaed)
+
 
